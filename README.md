@@ -5,7 +5,7 @@
 
 ## Sequences
 ```
-You should have KALEIDO App Credentials to preceed.
+You should have KALEIDO App Credentials to proceed.
 ```
  1. CMD : `truffle unbox pet-shop`
  2. Create `contracts/Adoption.sol`
